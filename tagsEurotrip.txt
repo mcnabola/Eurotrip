@@ -1,0 +1,38 @@
+MON 13TH MAY
+.. dub ...Leaving Dublin
+.. cdg ...Charles De Gaulle
+.. ntd ...Notre Dame
+.. eft ...Eiffel Tower 
+.. gps ...General Paris Sightseeing
+.. gfd ...General Food
+.. asd ...Accomodation SaintDenis AirB&B
+
+TUE 14TH MAY
+.. atd ...Accomodation Three Ducks
+.. mat ...Museum Arts and Trades
+.. pdv ...Palais De la Villette
+.. gps ...General Paris Sightseeing
+
+WED 15TH MAY
+.. dsl ...Disneyland
+
+THURS 16TH MAY
+.. gms ...General Milan Sightseeing
+.. gmf ...General Milan Food
+
+FRI 17TH MAy
+.. mst ...Ntl Musm Science & Tech
+.. psm ...Parco Sempione
+.. csf ...Castello Sforzesco
+.. gms ...General Milan Sightseeing
+.. gmf ...General Milan Food
+
+SAT 18TH MAY
+.. ltm ...Leonardo3 Museum
+.. plt ...Planetarium
+.. gmf ...General Milan Sightseeing
+.. gmf ...General Milan Food
+
+SUN 19TH MAY
+.. gms ...General Milan Sightseeing
+.. gmf ...General Milan Food
